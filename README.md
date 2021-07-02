@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zer0cal
 - 👀 I’m interested in ML and Mobile Apps
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning Kotlin, Dart & Flutter, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
