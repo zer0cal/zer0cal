@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wojciech Falba from Olsztyn, Poland
-- 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning Kotlin, Dart & Flutter, Python
-- 💞️ I’m looking to collaborate on some mobile apps projects
+- 👀 I’m interested in ML & AI
+- 🌱 I’m currently Python and Julia
+- 💞️ I’m looking to collaborate on some ML projects
 - 📫 How to reach me:
   - e-mail: wojciech.falba@gmail.com 
   - LinkedIn profile: https://www.linkedin.com/in/wojciech-falba-4b002b18a/
