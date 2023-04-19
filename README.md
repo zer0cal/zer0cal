@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojciech Falba from Olsztyn, Poland
-- 👀 I’m interested in ML & AI
-- 🌱 I’m currently Python and Julia
+- 👀 I’m interested in ML & AI and also Dart/Flutter mobile development.
+- 🌱 I’m currently learning ML in Octave, Python and Julia.
 - 💞️ I’m looking to collaborate on some ML projects
 - 📫 How to reach me:
   - e-mail: wojciech.falba@gmail.com 
